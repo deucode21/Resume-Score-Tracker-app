@@ -1,0 +1,6 @@
+{
+  "name": "Resume Score Tracker",
+  "description": "An AI-powered ATS resume grader that parses your resume, identifies formatting or content mistakes, and provides detailed solution corrections and rewrites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
